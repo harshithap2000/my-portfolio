@@ -37,8 +37,8 @@ const header = {
       description:
         'Developed a sentiment analysis model using NLP techniques and machine learning algorithms to classify hotel reviews with 90.5% accuracy.',
       stack: ['Python', 'NLP', 'Scikit-learn'],
-      sourceCode: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews',
-      livePreview: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews', 
+      sourceCode: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews-',
+      livePreview: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews-', 
     },
   ]
   
