@@ -22,7 +22,7 @@ const header = {
         'Engineered a comprehensive Petri Net model using Java and JUnit to manage concurrent events in a complex rail yard system.',
       stack: ['Java', 'JUnit'],
       sourceCode: 'https://github.com/harshithap2000/Petri-net-Modelling-for-Railway-Networks',
-      livePreview: '',  
+      livePreview: 'https://github.com/harshithap2000/Petri-net-Modelling-for-Railway-Networks',  
     },
     {
       name: 'Obesity Prediction using PySpark',
@@ -30,7 +30,7 @@ const header = {
         'Built regression and classification models using PySpark to predict obesity based on health indicators for 10,000 individuals.',
       stack: ['PySpark', 'Python', 'Machine Learning'],
       sourceCode: 'https://github.com/harshithap2000/Obesity-Prediction',
-      livePreview: '',  
+      livePreview: 'https://github.com/harshithap2000/Obesity-Prediction',  
     },
     {
       name: 'Text Classification and Sentiment Analysis',
@@ -38,7 +38,7 @@ const header = {
         'Developed a sentiment analysis model using NLP techniques and machine learning algorithms to classify hotel reviews with 90.5% accuracy.',
       stack: ['Python', 'NLP', 'Scikit-learn'],
       sourceCode: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews',
-      livePreview: '', 
+      livePreview: 'https://github.com/harshithap2000/Text-Classification-and-Sentiment-Analysis-of-Hotel-Reviews', 
     },
   ]
   
